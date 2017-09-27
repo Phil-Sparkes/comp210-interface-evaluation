@@ -86,14 +86,13 @@ header{
   height:100px;
   background: #aaa;
 }
-header ul li{
-display: inline;
+header ul li{ display: inline;  }
+
+header ul li a
+{
 padding: .2em 1em;
-width: 20%;
-height:25px;
 background-color: #999;
 color: #000;
-line-height: 10px;
 text-align: center;
 text-decoration: none;
 }
