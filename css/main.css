@@ -92,8 +92,8 @@ header{
 aside{
   width:27%;
   min-height: 300px;
-  float:left;
-  background:#fff;
+  float:right;
+  background:#472;
 }
 nav ul{
   margin:10px;
