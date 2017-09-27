@@ -89,10 +89,10 @@ header{
 header ul{
 display:block;
 width: 20%;
-height:60px;
+height:10px;
 background-color: #999;
 color: #000;
-line-height: 60px;
+line-height: 10px;
 text-align: center;
 text-decoration: none;
 margin:5px;
