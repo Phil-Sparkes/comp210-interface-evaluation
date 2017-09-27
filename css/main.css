@@ -116,7 +116,7 @@ nav ul li a.selected{
   background: #888;
 }
 nav ul li a:hover{
-  background: #888;
+  background: #111;
 }
 section{
   width:69%;
