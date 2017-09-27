@@ -86,8 +86,9 @@ header{
   height:100px;
   background: #aaa;
 }
-header ul{
-display:block;
+header ul li{
+display: inline;
+padding: .2em 1em;
 width: 20%;
 height:25px;
 background-color: #999;
